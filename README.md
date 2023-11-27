@@ -33,3 +33,11 @@
 ## 文本生成语音
 
 ![](images/txt2wav.gif)
+
+## k8s
+k8s管理服务
+![](images/k8s.gif)
+
+## one-api中转集成LLM和embedding
+集成LLM模型封装成统一API，并使用该one-api进行对话。包含m3e生成向量，向量库匹配获取得分和排名。
+![](images/one-api.gif)
