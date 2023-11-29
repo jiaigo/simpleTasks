@@ -56,3 +56,13 @@ LLM充当Agent角色，根据user输入执行不同的指令完成任务。
 ## grpc
 ![](images/grpc.gif)
 可ghz进行压测
+
+## LLM接入麦克风
+本地离线语音识别
+![本地离线语音服务](images/llm-mic1.gif)
+
+网络在线语音识别
+![网络语音服务](images/llm-mic2.gif)
+
+## qq-bot
+<img src="images/qq.gif" alt="Image" width="276" height="597">
